@@ -1,3 +1,14 @@
-# simpleCrudCI
-###### em CodeIgniter
-`CODE`
+### 	INSTRUÇÕES PARA UPLOAD .
+
+	*	Diretório `aplication` .
+	*	Diretório `assets` .
+	*	Diretório `system` .
+	*	Arquivo   `.htaccess` .
+	*	Arquivo   `index.php` .
+
+> Copie os **três diretórios** e os **dois arquivos** citados acima para o diretório `public` .
+
+###### Este site foi desenvolvido com o framework CodeIgniter .
+###### Dúvidas ?
+###### Ligue 48 996 653 644 .
+###### Fale com Gabriel . 
