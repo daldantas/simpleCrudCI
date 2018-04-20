@@ -8,7 +8,7 @@
 
 > Copie os **três diretórios** e os **dois arquivos** citados acima para o diretório `public` ou equivalente no seu servidor .
 
-###### Sesenvolvido com o framework CodeIgniter .
+###### Desenvolvido com o framework CodeIgniter .
 ###### Dúvidas ?
 ###### Ligue 48 996 653 644 .
 ###### Fale com Gabriel . 
