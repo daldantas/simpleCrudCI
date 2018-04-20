@@ -6,9 +6,9 @@
 	*	Arquivo   `.htaccess` .
 	*	Arquivo   `index.php` .
 
-> Copie os **três diretórios** e os **dois arquivos** citados acima para o diretório `public` .
+> Copie os **três diretórios** e os **dois arquivos** citados acima para o diretório `public` ou equivalente no seu servidor .
 
-###### Este site foi desenvolvido com o framework CodeIgniter .
+###### Sesenvolvido com o framework CodeIgniter .
 ###### Dúvidas ?
 ###### Ligue 48 996 653 644 .
 ###### Fale com Gabriel . 
