@@ -1,3 +1,3 @@
 # Very Simple Crud with Frameworks
-* PHP Framework: [Code Igniter](https://codeigniter.com/)
-* Layout: [Bootstrap](https://getbootstrap.com/)
+* Background Framework: [Code Igniter](https://codeigniter.com/)
+* Frontend Framework: [Bootstrap](https://getbootstrap.com/)
